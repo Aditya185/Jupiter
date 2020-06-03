@@ -1,0 +1,29 @@
+[
+     {
+      "id": 1,
+      "name": "Aditya Prakash",
+      "logged":true,
+      "tasks": ["Get Milk", "Do HW", "Go Gym"],
+      "sourcename":["Google", "Yahoo", "LinkedIN","Hotmail"],
+      "targetResult":["Java", "Python", "CPP","JS"]
+      
+    },
+    {
+      "id": 2,
+      "name": "Tyler McGinnis",
+      "logged":false,
+      "tasks": ["Get cheese", "Do CW", "Go Market"],
+      "sourcename":["Google", "Yahoo", "LinkedIN"],
+      "targetResult":["Java", "Python", "CPP"]
+      
+    },
+    {
+      "id": 3,
+      "name": "Dan Abramov",
+      "logged":false,
+      "tasks": ["Get Paneer", "Do TW", "Go Tuition"],
+      "sourcename":["Google", "Yahoo", "LinkedIN"],
+      "targetResult":["Java", "Python", "CPP"]
+    }
+]
+  
